@@ -16,8 +16,6 @@ Family History of OCD: Yes / No
 Depression / Anxiety: Comorbid diagnosis
 Medications: Usage indicator
 
-<img width="1147" alt="image" src="https://github.com/user-attachments/assets/bfcec6eb-18de-4f10-845c-7728addddd57" />
-
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/5c77a51c-dfa0-4070-8d08-76ad683879af" />
 
 📊 Insights
@@ -47,7 +45,6 @@ Depression Diagnosis: Yes / No
 Anxiety Diagnosis: Yes / No
 Optional Filters: Gender, Family History of OCD, Duration
 
-<img width="868" alt="image" src="https://github.com/user-attachments/assets/3a37656b-59c1-45c8-810b-cd2dddd6897b" />
 <img width="1257" alt="image" src="https://github.com/user-attachments/assets/c92a1163-9fc5-44fe-b22a-8fa40b699c50" />
 
 
@@ -64,6 +61,7 @@ Interactive filters to slice by demographics and comorbid indicators
 
 ✅ Use Case: Supports early screening strategies by surfacing which compulsions require more holistic mental health evaluation (beyond just OCD symptoms).
 
+_________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
