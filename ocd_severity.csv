@@ -1,0 +1,1001 @@
+"Patient ID","Education Level","Marital Status","Family History of OCD","Previous Diagnoses",YBOCS_Total
+1018,"Some College",Single,No,MDD,27
+2406,"Some College",Divorced,Yes,None,46
+1188,"College Degree",Divorced,No,MDD,7
+6200,"College Degree",Married,Yes,PTSD,42
+5824,"High School",Married,Yes,PTSD,57
+6946,"College Degree",Married,No,GAD,37
+9861,"College Degree",Single,No,MDD,28
+8396,"College Degree",Divorced,No,PTSD,35
+9039,"College Degree",Divorced,No,None,61
+1580,"Graduate Degree",Divorced,Yes,GAD,64
+9672,"College Degree",Married,Yes,GAD,66
+7905,"High School",Divorced,No,GAD,20
+6237,"High School",Married,No,"Panic Disorder",41
+4456,"Some College",Single,No,MDD,49
+9678,"High School",Divorced,Yes,MDD,62
+8070,"College Degree",Married,Yes,PTSD,42
+5003,"College Degree",Married,Yes,"Panic Disorder",28
+7251,"High School",Divorced,Yes,None,58
+8271,"Some College",Single,Yes,None,44
+2637,"College Degree",Divorced,No,"Panic Disorder",12
+6778,"Graduate Degree",Single,Yes,PTSD,34
+9354,"Graduate Degree",Single,Yes,PTSD,41
+1022,"College Degree",Single,No,PTSD,48
+8818,"Graduate Degree",Married,No,GAD,18
+3552,"Some College",Single,No,"Panic Disorder",34
+4560,"Graduate Degree",Divorced,No,MDD,44
+5366,"Some College",Single,No,GAD,45
+8106,"College Degree",Divorced,Yes,GAD,12
+1213,"College Degree",Divorced,No,MDD,18
+7992,"Graduate Degree",Divorced,Yes,GAD,44
+9536,"College Degree",Divorced,No,"Panic Disorder",40
+6831,"Some College",Married,Yes,"Panic Disorder",31
+4055,"Some College",Divorced,Yes,"Panic Disorder",34
+7299,"Some College",Married,Yes,None,35
+2560,"Some College",Married,Yes,None,42
+2995,"Graduate Degree",Married,No,"Panic Disorder",55
+1356,"Graduate Degree",Married,Yes,"Panic Disorder",62
+2955,"High School",Divorced,Yes,"Panic Disorder",59
+7042,"High School",Married,No,None,39
+5868,"High School",Married,Yes,PTSD,40
+9468,"Graduate Degree",Married,Yes,PTSD,7
+1660,"Some College",Married,Yes,GAD,51
+5148,"High School",Divorced,No,MDD,33
+7919,"Graduate Degree",Divorced,No,"Panic Disorder",65
+7493,"Graduate Degree",Divorced,Yes,MDD,77
+9527,"Graduate Degree",Single,Yes,None,26
+2164,"Some College",Married,No,MDD,28
+5092,"Some College",Married,No,MDD,41
+2169,"College Degree",Single,Yes,MDD,72
+9633,"Graduate Degree",Divorced,Yes,MDD,33
+2425,"Some College",Single,Yes,MDD,26
+8798,"Some College",Single,No,PTSD,61
+2845,"Some College",Married,No,MDD,64
+1340,"Graduate Degree",Married,Yes,None,76
+8432,"High School",Divorced,Yes,"Panic Disorder",20
+2947,"Some College",Divorced,No,MDD,66
+1698,"High School",Divorced,No,GAD,49
+7562,"Some College",Married,Yes,"Panic Disorder",32
+1452,"High School",Divorced,No,PTSD,65
+8419,"High School",Married,Yes,None,23
+3816,"College Degree",Divorced,Yes,"Panic Disorder",67
+8024,"Some College",Single,No,MDD,57
+1072,"Some College",Single,Yes,None,38
+3465,"College Degree",Married,Yes,None,34
+4205,"Some College",Divorced,Yes,MDD,22
+5376,"High School",Divorced,Yes,PTSD,21
+9497,"Graduate Degree",Single,No,MDD,37
+9615,"Some College",Married,No,"Panic Disorder",46
+4850,"College Degree",Married,Yes,MDD,38
+6112,"College Degree",Married,No,"Panic Disorder",25
+7787,"High School",Married,No,MDD,71
+5730,"College Degree",Divorced,Yes,PTSD,38
+6222,"College Degree",Divorced,No,None,35
+6219,"High School",Married,No,GAD,25
+8450,"Some College",Single,No,GAD,62
+5733,"Some College",Divorced,Yes,GAD,24
+1538,"College Degree",Divorced,No,"Panic Disorder",37
+6514,"College Degree",Married,No,None,59
+4884,"High School",Divorced,No,None,34
+7430,"College Degree",Single,Yes,MDD,45
+7492,"Some College",Divorced,No,None,51
+4022,"Graduate Degree",Single,No,PTSD,63
+1840,"Graduate Degree",Married,Yes,GAD,14
+4652,"Graduate Degree",Single,No,MDD,52
+5525,"Graduate Degree",Single,Yes,MDD,31
+1288,"College Degree",Single,Yes,MDD,50
+7362,"Graduate Degree",Divorced,No,MDD,63
+2520,"High School",Divorced,Yes,PTSD,49
+8234,"College Degree",Divorced,Yes,None,37
+3467,"College Degree",Single,No,"Panic Disorder",28
+2839,"High School",Married,No,GAD,56
+9814,"Graduate Degree",Divorced,No,None,25
+3269,"Graduate Degree",Single,Yes,None,40
+7013,"Graduate Degree",Divorced,Yes,MDD,8
+4933,"Graduate Degree",Single,No,None,51
+7683,"Some College",Divorced,No,PTSD,54
+3564,"Graduate Degree",Single,Yes,PTSD,29
+5606,"High School",Married,No,"Panic Disorder",40
+2349,"College Degree",Divorced,No,MDD,18
+6251,"Graduate Degree",Married,Yes,GAD,34
+6043,"Graduate Degree",Divorced,Yes,None,60
+9037,"College Degree",Divorced,No,"Panic Disorder",51
+7382,"Graduate Degree",Divorced,No,None,66
+7695,"Some College",Married,Yes,"Panic Disorder",42
+3378,"Graduate Degree",Single,Yes,None,25
+5759,"College Degree",Single,Yes,GAD,38
+3476,"Graduate Degree",Married,No,GAD,37
+4028,"High School",Married,Yes,"Panic Disorder",77
+2566,"Some College",Single,Yes,MDD,51
+4658,"Graduate Degree",Married,No,GAD,3
+4618,"College Degree",Divorced,No,GAD,43
+6545,"High School",Divorced,No,PTSD,32
+4696,"College Degree",Single,No,GAD,16
+3184,"Some College",Divorced,Yes,GAD,46
+5584,"College Degree",Divorced,No,GAD,28
+6696,"Graduate Degree",Single,Yes,GAD,60
+2321,"Graduate Degree",Married,Yes,GAD,5
+1289,"Some College",Single,No,"Panic Disorder",44
+4112,"Graduate Degree",Married,Yes,"Panic Disorder",65
+8701,"High School",Single,Yes,GAD,70
+2504,"High School",Divorced,No,PTSD,24
+5453,"College Degree",Divorced,No,PTSD,40
+6211,"Graduate Degree",Married,No,None,28
+4822,"High School",Single,No,PTSD,32
+9909,"High School",Married,Yes,"Panic Disorder",41
+3538,"High School",Single,No,None,22
+7806,"High School",Married,No,GAD,38
+3516,"Some College",Single,Yes,GAD,5
+7351,"Graduate Degree",Divorced,No,"Panic Disorder",26
+4584,"College Degree",Divorced,Yes,"Panic Disorder",58
+7053,"Graduate Degree",Single,Yes,GAD,19
+4086,"High School",Single,Yes,GAD,15
+3376,"High School",Married,Yes,MDD,31
+9515,"Graduate Degree",Married,Yes,PTSD,22
+9940,"Graduate Degree",Divorced,No,PTSD,37
+3728,"College Degree",Divorced,Yes,"Panic Disorder",52
+1586,"College Degree",Divorced,Yes,GAD,44
+8470,"High School",Single,Yes,"Panic Disorder",65
+4315,"Graduate Degree",Divorced,Yes,PTSD,54
+9510,"College Degree",Married,No,PTSD,29
+4774,"High School",Divorced,No,MDD,37
+3462,"College Degree",Divorced,Yes,MDD,31
+2860,"College Degree",Single,No,None,2
+4884,"College Degree",Married,No,None,9
+1083,"Graduate Degree",Married,No,"Panic Disorder",57
+9520,"College Degree",Single,Yes,MDD,61
+7966,"Some College",Single,Yes,"Panic Disorder",45
+4418,"High School",Divorced,Yes,PTSD,43
+7310,"Graduate Degree",Single,Yes,GAD,35
+9423,"Some College",Single,Yes,None,38
+7092,"High School",Divorced,Yes,MDD,6
+3383,"College Degree",Single,No,PTSD,34
+5683,"College Degree",Married,No,MDD,32
+5726,"College Degree",Single,No,PTSD,51
+6774,"Graduate Degree",Single,No,"Panic Disorder",24
+8815,"Graduate Degree",Single,Yes,None,61
+4611,"Graduate Degree",Married,No,PTSD,54
+4663,"College Degree",Married,No,PTSD,27
+7285,"Graduate Degree",Single,No,GAD,52
+1816,"Graduate Degree",Single,No,MDD,20
+4962,"Some College",Married,No,PTSD,50
+7679,"College Degree",Single,Yes,PTSD,47
+1190,"Graduate Degree",Divorced,Yes,None,27
+8679,"College Degree",Single,No,"Panic Disorder",30
+4661,"High School",Married,Yes,PTSD,29
+7662,"Some College",Single,No,"Panic Disorder",27
+4622,"High School",Divorced,No,"Panic Disorder",47
+9748,"Some College",Single,No,"Panic Disorder",49
+3449,"Some College",Single,No,GAD,36
+4510,"Graduate Degree",Married,Yes,MDD,42
+3525,"High School",Divorced,No,GAD,55
+4877,"College Degree",Single,No,None,54
+3178,"Some College",Single,No,GAD,30
+7307,"College Degree",Married,No,PTSD,52
+3604,"High School",Single,No,None,53
+6166,"Some College",Single,Yes,MDD,17
+3846,"Some College",Single,No,GAD,60
+8576,"College Degree",Single,No,"Panic Disorder",49
+2615,"College Degree",Single,No,PTSD,42
+4069,"High School",Divorced,Yes,MDD,37
+2623,"Some College",Divorced,Yes,"Panic Disorder",45
+8599,"Some College",Married,No,"Panic Disorder",66
+4843,"Graduate Degree",Divorced,Yes,PTSD,59
+1959,"Graduate Degree",Married,Yes,PTSD,50
+7900,"Graduate Degree",Divorced,Yes,PTSD,8
+2968,"Some College",Single,No,PTSD,51
+6919,"College Degree",Single,No,GAD,70
+5980,"High School",Married,No,"Panic Disorder",65
+4709,"College Degree",Single,No,GAD,62
+3324,"High School",Single,Yes,MDD,38
+2951,"Graduate Degree",Married,No,None,35
+5794,"High School",Divorced,No,None,44
+3587,"Graduate Degree",Married,Yes,MDD,25
+9052,"College Degree",Divorced,No,GAD,24
+8255,"High School",Divorced,Yes,PTSD,23
+5027,"High School",Divorced,Yes,"Panic Disorder",39
+8836,"College Degree",Divorced,No,PTSD,30
+8827,"College Degree",Divorced,No,"Panic Disorder",17
+3058,"High School",Single,Yes,GAD,23
+1056,"Graduate Degree",Single,No,PTSD,5
+6635,"College Degree",Married,No,MDD,48
+5623,"High School",Single,Yes,None,62
+8694,"Some College",Married,Yes,MDD,13
+4082,"College Degree",Single,Yes,MDD,36
+7313,"Graduate Degree",Divorced,No,PTSD,36
+7555,"Graduate Degree",Divorced,Yes,GAD,60
+5789,"Some College",Divorced,No,PTSD,52
+7426,"Graduate Degree",Single,No,PTSD,49
+4334,"High School",Divorced,No,MDD,33
+1018,"College Degree",Single,Yes,"Panic Disorder",24
+1885,"Some College",Married,Yes,GAD,72
+8610,"Some College",Married,Yes,MDD,39
+2856,"Some College",Married,Yes,MDD,33
+9937,"Graduate Degree",Divorced,No,MDD,40
+6767,"Some College",Married,Yes,None,65
+3340,"High School",Single,Yes,None,13
+1185,"High School",Divorced,No,PTSD,54
+2410,"Graduate Degree",Divorced,No,GAD,79
+9458,"Graduate Degree",Single,Yes,"Panic Disorder",22
+7690,"Graduate Degree",Married,Yes,MDD,41
+9123,"Some College",Married,Yes,"Panic Disorder",55
+5991,"Graduate Degree",Divorced,Yes,PTSD,16
+5837,"Some College",Divorced,No,GAD,40
+3262,"College Degree",Single,Yes,"Panic Disorder",23
+9360,"Some College",Divorced,No,MDD,37
+9507,"Graduate Degree",Divorced,Yes,None,18
+5695,"Some College",Married,No,None,13
+1478,"Graduate Degree",Divorced,No,MDD,50
+4269,"College Degree",Divorced,Yes,PTSD,42
+9192,"College Degree",Single,Yes,"Panic Disorder",59
+4443,"Some College",Divorced,Yes,None,55
+7408,"High School",Divorced,Yes,"Panic Disorder",31
+3693,"High School",Single,No,"Panic Disorder",51
+4240,"Graduate Degree",Married,Yes,PTSD,49
+9711,"Graduate Degree",Single,Yes,PTSD,43
+4940,"Some College",Single,Yes,None,19
+9812,"College Degree",Single,No,None,18
+8143,"Some College",Single,Yes,"Panic Disorder",67
+3321,"Graduate Degree",Single,Yes,MDD,47
+9834,"College Degree",Single,No,GAD,9
+5874,"Some College",Single,Yes,"Panic Disorder",68
+5914,"Graduate Degree",Married,Yes,MDD,52
+1163,"Graduate Degree",Married,Yes,PTSD,21
+5045,"Graduate Degree",Single,Yes,"Panic Disorder",27
+4290,"High School",Divorced,No,GAD,53
+3695,"High School",Single,No,"Panic Disorder",57
+3227,"High School",Single,No,PTSD,47
+8709,"Graduate Degree",Married,Yes,MDD,42
+1913,"College Degree",Single,No,"Panic Disorder",33
+6919,"Some College",Married,Yes,MDD,50
+9831,"Some College",Married,Yes,"Panic Disorder",28
+8563,"Graduate Degree",Married,Yes,"Panic Disorder",44
+7877,"College Degree",Married,Yes,"Panic Disorder",33
+7794,"High School",Single,Yes,PTSD,31
+7014,"College Degree",Divorced,No,PTSD,44
+2337,"College Degree",Married,Yes,"Panic Disorder",44
+3847,"College Degree",Divorced,Yes,None,69
+8379,"College Degree",Married,No,MDD,44
+4372,"College Degree",Single,Yes,MDD,40
+5726,"Graduate Degree",Single,Yes,MDD,58
+3002,"College Degree",Divorced,No,GAD,69
+8673,"High School",Single,Yes,"Panic Disorder",64
+2190,"High School",Divorced,Yes,GAD,41
+6541,"High School",Married,No,"Panic Disorder",26
+2304,"High School",Married,Yes,MDD,36
+9715,"Some College",Divorced,Yes,GAD,36
+8672,"Some College",Single,No,"Panic Disorder",21
+2923,"High School",Single,Yes,"Panic Disorder",54
+1402,"High School",Divorced,No,MDD,46
+6195,"Graduate Degree",Married,No,MDD,23
+2985,"High School",Divorced,Yes,"Panic Disorder",70
+2085,"Graduate Degree",Divorced,Yes,GAD,53
+5108,"Some College",Divorced,No,MDD,70
+2673,"Graduate Degree",Single,No,MDD,7
+7236,"High School",Divorced,Yes,GAD,65
+8990,"Some College",Married,No,"Panic Disorder",20
+5164,"Graduate Degree",Divorced,Yes,PTSD,33
+3303,"College Degree",Married,Yes,None,45
+9560,"College Degree",Divorced,No,GAD,65
+8303,"High School",Divorced,Yes,"Panic Disorder",39
+8925,"High School",Single,Yes,GAD,78
+2786,"High School",Single,Yes,PTSD,49
+5983,"High School",Married,Yes,MDD,33
+8702,"College Degree",Divorced,No,GAD,52
+7906,"High School",Married,Yes,GAD,33
+2249,"High School",Married,Yes,MDD,36
+5426,"High School",Divorced,No,GAD,19
+9198,"Some College",Married,Yes,MDD,40
+3415,"High School",Single,No,None,21
+4816,"Some College",Divorced,Yes,PTSD,42
+3156,"High School",Married,No,GAD,48
+5609,"College Degree",Divorced,Yes,"Panic Disorder",12
+5423,"Graduate Degree",Single,Yes,PTSD,68
+5975,"High School",Single,No,GAD,60
+1042,"Some College",Divorced,No,None,16
+8504,"Some College",Divorced,No,MDD,47
+1876,"High School",Divorced,No,PTSD,57
+9201,"Some College",Married,No,PTSD,60
+6615,"Some College",Single,No,MDD,39
+4084,"Some College",Married,Yes,GAD,41
+5144,"Graduate Degree",Single,No,"Panic Disorder",20
+3708,"College Degree",Married,No,None,51
+8530,"Some College",Single,Yes,PTSD,41
+8141,"Some College",Married,No,GAD,28
+4830,"High School",Married,No,PTSD,33
+9405,"Some College",Divorced,No,GAD,44
+8305,"Graduate Degree",Divorced,No,"Panic Disorder",20
+6587,"Graduate Degree",Married,No,PTSD,34
+8996,"High School",Single,Yes,"Panic Disorder",68
+5890,"Some College",Single,No,GAD,51
+2810,"Graduate Degree",Single,Yes,MDD,31
+9908,"Graduate Degree",Married,Yes,GAD,61
+5927,"Some College",Married,Yes,PTSD,9
+5476,"High School",Single,No,"Panic Disorder",15
+5226,"Some College",Married,No,"Panic Disorder",39
+8061,"High School",Single,Yes,PTSD,40
+9649,"High School",Divorced,No,GAD,66
+7070,"Graduate Degree",Single,No,GAD,62
+2967,"Graduate Degree",Married,Yes,None,38
+6207,"Some College",Divorced,Yes,None,62
+1073,"High School",Divorced,Yes,MDD,28
+2115,"High School",Single,Yes,None,20
+7120,"Graduate Degree",Divorced,No,GAD,56
+9947,"High School",Married,No,MDD,41
+9431,"High School",Single,No,MDD,38
+5786,"Graduate Degree",Married,Yes,None,29
+8046,"Some College",Single,Yes,PTSD,8
+8516,"College Degree",Married,No,"Panic Disorder",34
+3397,"College Degree",Single,No,GAD,4
+1277,"College Degree",Single,No,MDD,49
+1627,"Some College",Single,No,MDD,1
+5349,"Graduate Degree",Single,Yes,MDD,46
+2354,"Graduate Degree",Single,Yes,GAD,47
+7148,"College Degree",Single,No,None,16
+7802,"College Degree",Divorced,No,MDD,26
+2759,"Some College",Married,No,GAD,13
+2468,"Graduate Degree",Married,Yes,GAD,22
+9904,"College Degree",Single,Yes,MDD,40
+7113,"Graduate Degree",Single,Yes,MDD,32
+9331,"High School",Divorced,No,MDD,52
+4049,"Some College",Divorced,Yes,PTSD,59
+9990,"High School",Divorced,Yes,MDD,23
+9376,"College Degree",Divorced,Yes,None,25
+6403,"High School",Married,No,PTSD,50
+7005,"Graduate Degree",Divorced,No,None,47
+7911,"Some College",Divorced,No,"Panic Disorder",6
+8894,"Some College",Single,No,PTSD,71
+3919,"College Degree",Single,No,None,27
+6966,"College Degree",Single,No,None,59
+7474,"Graduate Degree",Single,No,MDD,39
+1504,"Some College",Divorced,Yes,MDD,61
+2447,"High School",Single,No,"Panic Disorder",7
+8146,"Some College",Divorced,No,PTSD,21
+1047,"High School",Married,No,MDD,38
+4061,"Graduate Degree",Divorced,No,PTSD,53
+4890,"Some College",Married,Yes,MDD,44
+9016,"College Degree",Divorced,No,None,24
+3679,"High School",Divorced,Yes,MDD,28
+7218,"Some College",Married,No,MDD,55
+9797,"College Degree",Single,Yes,PTSD,59
+1183,"High School",Single,Yes,None,30
+3142,"Some College",Divorced,Yes,"Panic Disorder",20
+9689,"High School",Married,Yes,PTSD,21
+6493,"College Degree",Married,Yes,GAD,39
+8568,"High School",Married,Yes,PTSD,60
+8984,"High School",Married,No,GAD,62
+7645,"Graduate Degree",Single,Yes,"Panic Disorder",62
+5042,"College Degree",Single,Yes,MDD,39
+9317,"Some College",Single,Yes,PTSD,29
+2712,"Graduate Degree",Divorced,Yes,"Panic Disorder",45
+6937,"High School",Married,No,"Panic Disorder",24
+4758,"Graduate Degree",Divorced,Yes,MDD,13
+8479,"High School",Divorced,Yes,None,50
+7837,"College Degree",Married,Yes,PTSD,62
+2156,"Some College",Divorced,Yes,PTSD,33
+7352,"Graduate Degree",Single,Yes,GAD,18
+5015,"Graduate Degree",Married,No,GAD,34
+7723,"College Degree",Divorced,Yes,"Panic Disorder",35
+1138,"College Degree",Divorced,No,None,48
+7413,"High School",Single,No,GAD,41
+9444,"High School",Single,No,PTSD,61
+7291,"College Degree",Married,Yes,"Panic Disorder",31
+3979,"High School",Single,Yes,GAD,26
+1562,"Some College",Married,Yes,PTSD,75
+9912,"Graduate Degree",Single,No,MDD,22
+2593,"High School",Single,Yes,None,17
+8147,"Some College",Married,No,PTSD,20
+3021,"Some College",Divorced,No,"Panic Disorder",26
+1721,"High School",Married,No,GAD,61
+3313,"College Degree",Married,Yes,MDD,25
+2803,"High School",Married,No,"Panic Disorder",71
+2613,"High School",Divorced,Yes,MDD,52
+4692,"Some College",Married,Yes,"Panic Disorder",31
+2392,"Graduate Degree",Divorced,Yes,PTSD,31
+5590,"Graduate Degree",Divorced,Yes,None,48
+8912,"High School",Married,No,None,48
+9874,"High School",Married,Yes,GAD,26
+9001,"Some College",Single,Yes,GAD,43
+5333,"College Degree",Married,No,GAD,66
+1729,"Some College",Married,No,PTSD,4
+3355,"Some College",Divorced,Yes,PTSD,38
+4500,"Graduate Degree",Single,No,"Panic Disorder",54
+7548,"College Degree",Married,Yes,PTSD,50
+3727,"Graduate Degree",Divorced,No,PTSD,45
+7438,"High School",Divorced,Yes,"Panic Disorder",52
+1110,"Graduate Degree",Single,No,MDD,50
+3880,"College Degree",Married,Yes,GAD,34
+5679,"Graduate Degree",Single,Yes,MDD,45
+8880,"Graduate Degree",Divorced,Yes,None,20
+8529,"Some College",Divorced,Yes,None,38
+3191,"Graduate Degree",Single,No,GAD,31
+6758,"College Degree",Single,Yes,PTSD,32
+6525,"Some College",Divorced,No,"Panic Disorder",30
+7253,"Graduate Degree",Single,Yes,"Panic Disorder",36
+7272,"Some College",Single,Yes,"Panic Disorder",72
+6693,"High School",Single,Yes,PTSD,62
+4636,"Some College",Divorced,Yes,None,47
+1541,"Some College",Single,No,MDD,44
+1779,"High School",Single,Yes,GAD,72
+6695,"College Degree",Divorced,No,MDD,55
+9407,"Some College",Married,No,None,5
+8870,"Some College",Single,No,MDD,27
+7287,"Graduate Degree",Divorced,No,None,41
+2138,"High School",Single,No,PTSD,64
+9958,"Graduate Degree",Married,Yes,MDD,16
+7278,"Graduate Degree",Married,Yes,"Panic Disorder",20
+3654,"Some College",Single,Yes,None,18
+8937,"High School",Married,No,GAD,68
+6856,"College Degree",Married,No,"Panic Disorder",5
+2000,"Graduate Degree",Divorced,Yes,MDD,22
+3727,"Some College",Divorced,No,PTSD,29
+3235,"College Degree",Single,Yes,"Panic Disorder",27
+8333,"High School",Married,Yes,GAD,24
+1194,"Some College",Married,No,None,40
+7854,"Graduate Degree",Married,No,PTSD,22
+2989,"College Degree",Divorced,Yes,"Panic Disorder",31
+1645,"College Degree",Married,No,PTSD,13
+7465,"High School",Married,No,MDD,31
+7138,"Graduate Degree",Married,No,GAD,34
+6480,"Graduate Degree",Married,No,MDD,12
+8076,"College Degree",Married,Yes,MDD,51
+6128,"Some College",Married,No,PTSD,14
+5409,"Graduate Degree",Married,No,MDD,67
+6558,"High School",Divorced,No,None,22
+3117,"Graduate Degree",Single,No,MDD,32
+9951,"High School",Married,No,MDD,47
+2240,"College Degree",Married,No,MDD,48
+5781,"Graduate Degree",Single,No,"Panic Disorder",54
+1854,"Graduate Degree",Single,Yes,"Panic Disorder",36
+4575,"Some College",Married,No,"Panic Disorder",35
+2277,"High School",Single,No,MDD,62
+6564,"Some College",Divorced,Yes,MDD,48
+9342,"High School",Married,No,PTSD,2
+6487,"High School",Single,No,MDD,52
+5857,"College Degree",Divorced,Yes,MDD,13
+8179,"College Degree",Divorced,No,PTSD,31
+8257,"Graduate Degree",Single,No,PTSD,31
+4880,"Graduate Degree",Single,Yes,GAD,63
+3197,"High School",Single,Yes,"Panic Disorder",51
+3074,"Some College",Single,No,GAD,61
+4326,"Graduate Degree",Divorced,Yes,"Panic Disorder",58
+6030,"Graduate Degree",Married,No,MDD,36
+6405,"College Degree",Divorced,No,MDD,55
+1466,"College Degree",Married,No,"Panic Disorder",40
+1217,"Some College",Married,No,MDD,38
+6790,"College Degree",Divorced,No,"Panic Disorder",38
+9256,"Some College",Divorced,No,"Panic Disorder",57
+3904,"Graduate Degree",Single,Yes,None,28
+2227,"Some College",Married,No,GAD,34
+4458,"Graduate Degree",Married,No,PTSD,58
+4437,"College Degree",Married,No,PTSD,36
+6839,"Some College",Married,No,PTSD,52
+8699,"High School",Single,No,PTSD,30
+2429,"Graduate Degree",Divorced,No,"Panic Disorder",29
+9756,"Graduate Degree",Married,Yes,GAD,32
+2074,"High School",Divorced,Yes,MDD,25
+5468,"High School",Single,No,"Panic Disorder",43
+3986,"College Degree",Divorced,No,GAD,40
+9883,"High School",Divorced,Yes,MDD,16
+7332,"Some College",Divorced,No,GAD,34
+4010,"High School",Married,Yes,PTSD,26
+7007,"High School",Married,No,GAD,56
+4250,"High School",Single,No,PTSD,55
+5987,"Some College",Married,Yes,None,66
+9877,"High School",Single,No,MDD,42
+6053,"Graduate Degree",Married,Yes,GAD,46
+5257,"Some College",Married,Yes,GAD,54
+7753,"Graduate Degree",Single,Yes,GAD,51
+3515,"Graduate Degree",Married,Yes,MDD,20
+2856,"College Degree",Single,Yes,MDD,31
+1950,"College Degree",Divorced,Yes,MDD,46
+3722,"High School",Married,No,GAD,23
+9845,"Graduate Degree",Married,No,"Panic Disorder",55
+1881,"Some College",Married,No,MDD,32
+5738,"Graduate Degree",Single,No,None,40
+6915,"College Degree",Single,No,PTSD,16
+3268,"High School",Divorced,No,PTSD,5
+6872,"Graduate Degree",Single,No,MDD,24
+9248,"Graduate Degree",Married,No,"Panic Disorder",64
+4919,"Graduate Degree",Divorced,No,GAD,45
+5459,"College Degree",Married,Yes,MDD,43
+6855,"Some College",Single,No,MDD,63
+3322,"Graduate Degree",Divorced,No,GAD,45
+6233,"Some College",Married,Yes,None,35
+1593,"College Degree",Single,Yes,PTSD,41
+6129,"High School",Divorced,Yes,PTSD,54
+2790,"Some College",Single,Yes,"Panic Disorder",35
+4964,"Some College",Married,Yes,MDD,53
+1161,"Some College",Single,Yes,GAD,14
+3773,"Graduate Degree",Single,Yes,None,35
+6729,"Some College",Single,No,None,57
+1031,"High School",Divorced,Yes,"Panic Disorder",30
+9637,"Some College",Single,No,GAD,71
+1897,"College Degree",Single,No,PTSD,41
+6053,"Graduate Degree",Divorced,No,MDD,44
+5259,"College Degree",Divorced,Yes,None,11
+7175,"Some College",Divorced,Yes,GAD,36
+5542,"College Degree",Single,Yes,PTSD,11
+3246,"Some College",Single,Yes,GAD,52
+7818,"Graduate Degree",Married,No,PTSD,12
+8521,"College Degree",Married,No,PTSD,34
+7167,"Some College",Single,Yes,GAD,51
+1059,"College Degree",Single,Yes,"Panic Disorder",41
+8046,"College Degree",Married,Yes,None,58
+5005,"College Degree",Divorced,Yes,None,49
+2802,"College Degree",Married,No,"Panic Disorder",48
+7229,"High School",Married,Yes,MDD,43
+5246,"Graduate Degree",Single,No,MDD,55
+8873,"Graduate Degree",Single,Yes,"Panic Disorder",14
+1848,"Some College",Divorced,Yes,GAD,37
+6223,"Some College",Single,No,PTSD,52
+1748,"Some College",Divorced,Yes,GAD,51
+7473,"Graduate Degree",Divorced,No,None,30
+2696,"High School",Married,Yes,"Panic Disorder",43
+8808,"Some College",Married,Yes,None,16
+1483,"High School",Married,Yes,None,41
+1308,"College Degree",Divorced,Yes,MDD,56
+5559,"High School",Married,Yes,MDD,29
+5457,"Graduate Degree",Married,Yes,MDD,6
+2903,"Graduate Degree",Single,Yes,"Panic Disorder",67
+7009,"College Degree",Married,No,GAD,41
+3035,"High School",Single,No,"Panic Disorder",45
+9175,"Graduate Degree",Divorced,No,"Panic Disorder",26
+1032,"College Degree",Divorced,Yes,MDD,40
+7932,"High School",Married,No,PTSD,7
+9110,"Graduate Degree",Married,Yes,None,52
+3823,"Some College",Divorced,Yes,None,17
+4972,"College Degree",Single,No,GAD,57
+5375,"Graduate Degree",Married,No,None,15
+1658,"Graduate Degree",Divorced,Yes,"Panic Disorder",23
+1784,"High School",Married,Yes,MDD,54
+5981,"College Degree",Married,Yes,MDD,20
+5110,"College Degree",Divorced,Yes,"Panic Disorder",24
+3647,"College Degree",Married,Yes,MDD,46
+7123,"Graduate Degree",Single,No,"Panic Disorder",29
+7679,"Graduate Degree",Single,No,PTSD,38
+2594,"Some College",Divorced,Yes,PTSD,57
+6527,"High School",Single,No,MDD,73
+7690,"Some College",Divorced,Yes,PTSD,69
+5445,"Some College",Married,No,GAD,61
+6660,"College Degree",Single,No,GAD,41
+7376,"Graduate Degree",Single,No,None,20
+7759,"Graduate Degree",Married,No,MDD,20
+2747,"College Degree",Divorced,Yes,MDD,54
+3007,"College Degree",Married,Yes,MDD,36
+5206,"High School",Single,No,"Panic Disorder",24
+6344,"College Degree",Divorced,Yes,"Panic Disorder",64
+9213,"College Degree",Single,No,None,22
+5322,"High School",Married,No,MDD,55
+2547,"College Degree",Married,Yes,MDD,40
+1370,"Graduate Degree",Divorced,No,None,27
+6673,"College Degree",Married,No,None,12
+3642,"College Degree",Divorced,No,"Panic Disorder",27
+9995,"Graduate Degree",Divorced,Yes,MDD,10
+3396,"High School",Single,No,"Panic Disorder",53
+5869,"College Degree",Married,Yes,"Panic Disorder",55
+6855,"College Degree",Divorced,Yes,None,33
+5968,"Some College",Single,No,MDD,57
+5712,"Graduate Degree",Married,Yes,GAD,31
+2101,"Graduate Degree",Married,No,MDD,9
+3680,"High School",Divorced,No,PTSD,45
+4171,"High School",Divorced,No,MDD,50
+8820,"Some College",Married,Yes,PTSD,43
+7988,"Graduate Degree",Divorced,Yes,None,16
+9431,"Some College",Married,Yes,GAD,40
+9516,"Some College",Single,Yes,GAD,53
+5937,"Some College",Married,Yes,None,55
+6628,"College Degree",Single,No,MDD,44
+3199,"Some College",Married,Yes,None,35
+2946,"High School",Divorced,Yes,"Panic Disorder",58
+8708,"Some College",Single,Yes,MDD,51
+8571,"College Degree",Single,Yes,"Panic Disorder",18
+7938,"Graduate Degree",Married,No,PTSD,29
+8296,"College Degree",Single,Yes,MDD,57
+7430,"Some College",Single,No,"Panic Disorder",30
+4862,"Some College",Divorced,No,GAD,23
+1815,"Some College",Single,Yes,None,38
+3994,"Graduate Degree",Single,Yes,MDD,32
+4645,"College Degree",Married,No,GAD,26
+9435,"College Degree",Married,Yes,PTSD,47
+1404,"Some College",Divorced,Yes,None,75
+2255,"College Degree",Divorced,No,GAD,20
+1637,"College Degree",Married,Yes,MDD,58
+5772,"Graduate Degree",Married,No,GAD,28
+2687,"High School",Married,No,"Panic Disorder",13
+5203,"Graduate Degree",Divorced,Yes,GAD,58
+7822,"High School",Married,Yes,PTSD,48
+7531,"Some College",Single,No,"Panic Disorder",76
+1482,"College Degree",Married,Yes,MDD,40
+9328,"College Degree",Married,Yes,GAD,32
+8042,"High School",Single,Yes,"Panic Disorder",49
+4940,"Some College",Divorced,No,MDD,50
+4237,"Some College",Married,No,PTSD,64
+9057,"High School",Divorced,Yes,None,50
+4993,"College Degree",Divorced,Yes,None,45
+5182,"Graduate Degree",Single,Yes,GAD,39
+3863,"Some College",Divorced,No,GAD,55
+4897,"Some College",Divorced,No,GAD,24
+8971,"Graduate Degree",Divorced,Yes,GAD,36
+8794,"High School",Married,No,PTSD,41
+8806,"Some College",Married,Yes,MDD,61
+8520,"High School",Divorced,No,PTSD,34
+8596,"College Degree",Married,Yes,GAD,42
+4259,"College Degree",Married,Yes,"Panic Disorder",44
+6308,"College Degree",Married,Yes,"Panic Disorder",57
+8134,"Graduate Degree",Single,No,MDD,29
+3684,"Some College",Single,No,None,35
+6791,"Some College",Married,Yes,"Panic Disorder",7
+4630,"College Degree",Single,No,GAD,46
+6304,"High School",Divorced,No,PTSD,75
+6397,"High School",Single,No,None,39
+5955,"Graduate Degree",Divorced,No,GAD,62
+2874,"Graduate Degree",Single,No,PTSD,27
+7559,"College Degree",Single,Yes,MDD,37
+4900,"High School",Divorced,No,PTSD,34
+7284,"College Degree",Married,No,GAD,44
+8365,"High School",Divorced,No,"Panic Disorder",37
+3746,"Graduate Degree",Married,Yes,None,48
+7888,"College Degree",Single,Yes,GAD,18
+7743,"Graduate Degree",Single,No,"Panic Disorder",26
+8351,"College Degree",Married,No,"Panic Disorder",24
+2538,"High School",Married,Yes,MDD,27
+5911,"College Degree",Single,Yes,None,47
+4381,"College Degree",Divorced,No,MDD,30
+6403,"High School",Married,Yes,MDD,38
+1352,"High School",Divorced,Yes,PTSD,31
+4360,"College Degree",Divorced,Yes,MDD,70
+6024,"Graduate Degree",Single,Yes,PTSD,22
+5033,"High School",Married,Yes,MDD,43
+8294,"College Degree",Single,Yes,PTSD,60
+2895,"High School",Single,No,GAD,22
+4256,"Graduate Degree",Married,Yes,"Panic Disorder",35
+6239,"Graduate Degree",Divorced,No,PTSD,34
+4371,"High School",Single,Yes,GAD,61
+1416,"High School",Divorced,Yes,MDD,33
+2679,"Some College",Divorced,Yes,None,45
+5176,"College Degree",Married,No,GAD,38
+8328,"Some College",Married,Yes,GAD,57
+9431,"High School",Married,No,MDD,72
+5380,"High School",Married,Yes,GAD,15
+2946,"Graduate Degree",Married,Yes,MDD,21
+8051,"College Degree",Single,Yes,MDD,57
+6321,"High School",Married,No,"Panic Disorder",32
+4884,"High School",Married,Yes,MDD,29
+9468,"Graduate Degree",Married,Yes,"Panic Disorder",17
+5208,"Some College",Divorced,No,None,72
+7795,"Some College",Single,No,"Panic Disorder",29
+8827,"Some College",Divorced,Yes,PTSD,45
+8535,"College Degree",Married,No,GAD,29
+8072,"College Degree",Single,No,MDD,64
+1528,"High School",Married,Yes,GAD,11
+1536,"High School",Divorced,No,None,34
+1349,"College Degree",Single,Yes,PTSD,61
+8582,"College Degree",Married,No,None,69
+9751,"Some College",Single,Yes,GAD,39
+2200,"College Degree",Divorced,No,MDD,37
+8643,"College Degree",Single,No,GAD,9
+3597,"Some College",Married,No,PTSD,33
+6153,"Some College",Married,No,GAD,54
+3386,"Graduate Degree",Married,Yes,GAD,44
+9653,"Graduate Degree",Married,No,MDD,39
+1951,"College Degree",Single,Yes,PTSD,53
+7070,"College Degree",Divorced,No,None,42
+3073,"Some College",Single,No,PTSD,52
+7826,"Some College",Married,Yes,None,40
+2369,"College Degree",Married,No,None,21
+7294,"High School",Single,No,"Panic Disorder",67
+8154,"Graduate Degree",Married,No,"Panic Disorder",9
+9970,"High School",Married,Yes,"Panic Disorder",45
+6228,"Some College",Single,Yes,None,42
+7058,"Graduate Degree",Single,Yes,"Panic Disorder",53
+8798,"High School",Divorced,No,PTSD,31
+7794,"High School",Single,Yes,"Panic Disorder",32
+1845,"High School",Single,No,GAD,35
+4375,"Graduate Degree",Single,No,GAD,62
+1155,"Some College",Single,Yes,None,36
+2101,"College Degree",Single,No,None,53
+5729,"College Degree",Married,Yes,None,28
+7796,"Some College",Married,No,MDD,30
+5834,"College Degree",Single,Yes,PTSD,10
+4598,"Some College",Single,No,GAD,64
+4469,"High School",Married,No,PTSD,34
+8880,"Graduate Degree",Divorced,Yes,"Panic Disorder",18
+3413,"Some College",Single,Yes,MDD,14
+6236,"High School",Single,Yes,PTSD,38
+6689,"Graduate Degree",Single,Yes,MDD,45
+4234,"Graduate Degree",Married,No,GAD,72
+9782,"High School",Single,Yes,MDD,55
+8605,"High School",Married,No,GAD,44
+5240,"High School",Married,No,PTSD,35
+8758,"High School",Married,Yes,GAD,31
+3212,"Some College",Married,Yes,PTSD,45
+6643,"High School",Divorced,No,PTSD,48
+9762,"Some College",Divorced,Yes,MDD,24
+3975,"Some College",Single,Yes,PTSD,21
+4108,"Graduate Degree",Married,No,None,34
+3018,"Some College",Married,No,GAD,47
+8204,"High School",Single,No,None,38
+9083,"Graduate Degree",Single,No,PTSD,60
+2859,"College Degree",Single,No,GAD,63
+3430,"High School",Divorced,No,PTSD,15
+4399,"Some College",Single,No,PTSD,54
+1548,"Graduate Degree",Divorced,No,MDD,36
+5808,"College Degree",Single,No,"Panic Disorder",29
+3298,"College Degree",Single,No,None,10
+2689,"Graduate Degree",Married,Yes,PTSD,54
+7379,"Some College",Divorced,No,GAD,53
+1380,"Some College",Single,No,MDD,19
+1445,"Graduate Degree",Single,Yes,"Panic Disorder",22
+4700,"Graduate Degree",Single,Yes,PTSD,39
+1552,"Graduate Degree",Married,No,MDD,61
+8979,"High School",Married,Yes,PTSD,40
+2307,"College Degree",Married,No,PTSD,35
+5242,"Some College",Married,No,MDD,24
+1641,"Graduate Degree",Single,No,"Panic Disorder",67
+1753,"Graduate Degree",Single,Yes,GAD,24
+6778,"Graduate Degree",Divorced,No,MDD,21
+4846,"High School",Single,No,"Panic Disorder",44
+4088,"High School",Married,Yes,GAD,20
+2617,"Some College",Single,Yes,PTSD,59
+9031,"High School",Divorced,No,MDD,35
+6715,"College Degree",Single,No,None,18
+7368,"Some College",Married,No,GAD,66
+8934,"Graduate Degree",Married,No,"Panic Disorder",59
+6047,"Graduate Degree",Divorced,No,GAD,60
+5013,"Some College",Divorced,No,None,12
+5615,"College Degree",Divorced,No,None,7
+5137,"Some College",Divorced,No,PTSD,34
+3239,"Some College",Married,Yes,PTSD,6
+6574,"Some College",Single,Yes,"Panic Disorder",50
+9007,"High School",Married,Yes,"Panic Disorder",35
+8941,"Graduate Degree",Single,No,None,70
+5130,"High School",Divorced,Yes,MDD,40
+1413,"High School",Married,No,PTSD,42
+4136,"Graduate Degree",Divorced,No,None,18
+6338,"Some College",Married,Yes,MDD,62
+1245,"Some College",Single,Yes,None,48
+2230,"Some College",Divorced,No,"Panic Disorder",35
+2649,"Graduate Degree",Divorced,Yes,PTSD,33
+1669,"Some College",Divorced,Yes,None,37
+5894,"High School",Single,No,"Panic Disorder",20
+7262,"High School",Single,Yes,MDD,52
+8366,"College Degree",Single,Yes,MDD,63
+5064,"Some College",Divorced,No,"Panic Disorder",40
+1242,"College Degree",Divorced,Yes,"Panic Disorder",50
+5332,"Graduate Degree",Married,Yes,PTSD,47
+4439,"Graduate Degree",Married,Yes,"Panic Disorder",16
+8185,"Graduate Degree",Single,Yes,GAD,51
+2455,"Graduate Degree",Divorced,Yes,"Panic Disorder",46
+1713,"College Degree",Divorced,Yes,PTSD,58
+5791,"College Degree",Single,Yes,GAD,45
+8867,"Graduate Degree",Single,Yes,GAD,50
+3989,"College Degree",Single,No,GAD,56
+7029,"Some College",Divorced,No,PTSD,39
+5710,"High School",Single,No,"Panic Disorder",54
+9043,"Some College",Married,No,PTSD,53
+3274,"Some College",Married,Yes,PTSD,38
+4688,"High School",Married,No,GAD,18
+3235,"Some College",Married,Yes,PTSD,38
+4401,"Graduate Degree",Married,No,"Panic Disorder",41
+2018,"High School",Single,No,MDD,44
+1034,"Some College",Single,No,MDD,23
+4718,"High School",Single,Yes,"Panic Disorder",57
+8631,"Graduate Degree",Divorced,No,GAD,27
+6929,"College Degree",Married,Yes,"Panic Disorder",44
+4856,"Some College",Divorced,No,PTSD,51
+4787,"High School",Married,No,"Panic Disorder",79
+9755,"Some College",Single,No,"Panic Disorder",20
+6153,"Some College",Married,Yes,GAD,57
+6516,"Some College",Single,Yes,GAD,28
+8727,"Some College",Divorced,Yes,"Panic Disorder",41
+1075,"Some College",Divorced,Yes,"Panic Disorder",52
+5456,"Graduate Degree",Single,Yes,None,35
+2790,"Some College",Married,Yes,PTSD,56
+4570,"Some College",Single,No,MDD,55
+5420,"Graduate Degree",Single,Yes,GAD,36
+5738,"High School",Divorced,Yes,GAD,26
+7527,"College Degree",Divorced,No,GAD,37
+1335,"College Degree",Single,Yes,GAD,60
+8378,"High School",Divorced,No,"Panic Disorder",68
+5509,"College Degree",Divorced,No,MDD,30
+9115,"College Degree",Single,No,"Panic Disorder",8
+8595,"High School",Divorced,Yes,GAD,68
+9674,"High School",Single,Yes,MDD,36
+4321,"Graduate Degree",Married,No,None,24
+3258,"College Degree",Divorced,No,PTSD,24
+8339,"High School",Divorced,No,MDD,73
+8056,"Graduate Degree",Divorced,No,MDD,36
+9877,"Some College",Single,No,GAD,37
+2019,"Graduate Degree",Divorced,Yes,"Panic Disorder",14
+3312,"High School",Divorced,Yes,PTSD,22
+1885,"Some College",Single,Yes,PTSD,33
+6198,"Graduate Degree",Married,No,MDD,12
+5176,"Graduate Degree",Single,Yes,None,8
+6195,"Some College",Divorced,Yes,"Panic Disorder",64
+3209,"Some College",Divorced,Yes,None,61
+5222,"Graduate Degree",Divorced,Yes,None,45
+1704,"High School",Single,No,"Panic Disorder",33
+7255,"Graduate Degree",Single,No,PTSD,30
+8585,"College Degree",Married,No,GAD,38
+6239,"Graduate Degree",Divorced,Yes,None,45
+9305,"Graduate Degree",Single,Yes,"Panic Disorder",46
+6432,"Graduate Degree",Divorced,No,None,54
+4527,"High School",Married,No,MDD,69
+3725,"Graduate Degree",Married,No,"Panic Disorder",55
+1558,"Graduate Degree",Divorced,Yes,GAD,32
+8637,"Graduate Degree",Single,No,GAD,51
+7730,"High School",Married,No,PTSD,11
+9061,"Some College",Single,No,"Panic Disorder",57
+5974,"Some College",Married,No,"Panic Disorder",33
+2491,"Graduate Degree",Divorced,Yes,"Panic Disorder",10
+3504,"Graduate Degree",Divorced,Yes,"Panic Disorder",72
+1886,"Some College",Divorced,No,"Panic Disorder",47
+3765,"High School",Divorced,Yes,GAD,28
+7224,"Graduate Degree",Married,Yes,PTSD,70
+5778,"Some College",Single,Yes,MDD,57
+9513,"Some College",Single,Yes,GAD,47
+3345,"College Degree",Married,No,GAD,23
+5248,"Graduate Degree",Divorced,No,"Panic Disorder",25
+6155,"High School",Divorced,No,PTSD,32
+6473,"High School",Married,Yes,None,41
+7110,"College Degree",Single,No,GAD,41
+1816,"Graduate Degree",Single,Yes,MDD,57
+2586,"High School",Divorced,Yes,None,43
+2519,"College Degree",Single,Yes,MDD,30
+3014,"Graduate Degree",Single,Yes,PTSD,11
+7622,"College Degree",Divorced,No,PTSD,42
+7554,"Some College",Single,Yes,GAD,50
+8593,"Graduate Degree",Divorced,Yes,MDD,43
+6281,"Some College",Divorced,Yes,MDD,39
+5821,"College Degree",Married,Yes,PTSD,17
+3471,"High School",Married,No,PTSD,18
+7002,"Some College",Divorced,Yes,GAD,48
+8252,"Graduate Degree",Single,Yes,"Panic Disorder",37
+1454,"Graduate Degree",Single,Yes,"Panic Disorder",68
+3516,"Graduate Degree",Single,No,None,45
+8412,"Some College",Divorced,No,"Panic Disorder",28
+5905,"College Degree",Divorced,Yes,GAD,47
+8899,"Some College",Single,Yes,None,39
+1930,"Graduate Degree",Divorced,No,GAD,52
+2180,"Some College",Married,No,MDD,56
+8299,"High School",Married,No,MDD,58
+2206,"College Degree",Divorced,Yes,GAD,56
+8658,"High School",Single,Yes,MDD,19
+1639,"High School",Divorced,No,"Panic Disorder",42
+9885,"High School",Divorced,No,PTSD,23
+1835,"Graduate Degree",Single,No,"Panic Disorder",34
+6831,"College Degree",Married,Yes,MDD,30
+4956,"College Degree",Single,No,MDD,51
+3031,"High School",Single,No,None,32
+4014,"Some College",Single,Yes,PTSD,58
+9995,"Graduate Degree",Single,No,"Panic Disorder",45
+3828,"Graduate Degree",Divorced,Yes,"Panic Disorder",56
+8216,"High School",Single,No,"Panic Disorder",29
+5960,"Some College",Single,Yes,MDD,33
+4998,"College Degree",Married,No,"Panic Disorder",57
+2078,"Graduate Degree",Married,No,PTSD,54
+4367,"College Degree",Single,Yes,MDD,59
+8635,"Some College",Single,Yes,MDD,30
+6832,"Some College",Divorced,No,"Panic Disorder",26
+4403,"Graduate Degree",Single,No,"Panic Disorder",44
+6037,"High School",Married,Yes,PTSD,29
+4726,"College Degree",Divorced,No,"Panic Disorder",72
+5358,"Graduate Degree",Divorced,Yes,PTSD,73
+6007,"Graduate Degree",Single,No,GAD,12
+7452,"High School",Divorced,Yes,GAD,42
+5842,"College Degree",Married,No,MDD,47
+2409,"High School",Single,Yes,PTSD,8
+4017,"College Degree",Married,Yes,MDD,19
+6454,"High School",Married,No,"Panic Disorder",29
+1794,"High School",Divorced,Yes,PTSD,48
+9196,"Some College",Divorced,No,MDD,65
+4449,"Graduate Degree",Divorced,Yes,MDD,7
+5968,"High School",Single,No,"Panic Disorder",71
+1130,"High School",Single,No,MDD,45
+9772,"Graduate Degree",Single,Yes,MDD,46
+8289,"College Degree",Single,No,None,25
+6563,"High School",Divorced,Yes,GAD,39
+9959,"Some College",Single,Yes,GAD,60
+1923,"Some College",Divorced,No,MDD,4
+4841,"Graduate Degree",Married,Yes,None,60
+9755,"Some College",Single,No,PTSD,60
+3289,"Graduate Degree",Divorced,Yes,None,24
+8097,"College Degree",Married,No,MDD,6
+5718,"College Degree",Divorced,Yes,MDD,30
+1176,"Some College",Married,Yes,MDD,48
+3117,"College Degree",Single,Yes,PTSD,43
+1489,"Some College",Divorced,Yes,None,38
+9817,"College Degree",Single,Yes,GAD,40
+2476,"Some College",Single,Yes,None,42
+4500,"Some College",Married,No,GAD,54
+9309,"Graduate Degree",Divorced,Yes,PTSD,38
+2215,"College Degree",Divorced,Yes,PTSD,45
+4569,"Some College",Married,Yes,GAD,18
+5383,"High School",Single,Yes,MDD,54
+1885,"Some College",Divorced,No,PTSD,25
+1655,"Some College",Single,Yes,MDD,45
+4007,"High School",Married,No,None,59
+3696,"Some College",Single,No,"Panic Disorder",56
+3284,"College Degree",Divorced,Yes,MDD,41
+4568,"High School",Married,Yes,None,42
+6955,"Some College",Single,No,MDD,57
+3323,"Graduate Degree",Divorced,No,PTSD,54
+4119,"High School",Single,No,GAD,48
+6539,"Some College",Divorced,No,None,47
+2600,"Graduate Degree",Single,Yes,PTSD,40
+5306,"College Degree",Divorced,No,MDD,42
+8848,"High School",Divorced,No,PTSD,27
+9525,"College Degree",Single,Yes,GAD,63
+3789,"Some College",Divorced,Yes,"Panic Disorder",12
+7301,"College Degree",Married,No,"Panic Disorder",28
+9065,"College Degree",Married,Yes,GAD,61
+3502,"Some College",Married,No,MDD,40
+3113,"College Degree",Single,Yes,None,43
+4499,"Some College",Divorced,Yes,MDD,7
+3946,"College Degree",Married,Yes,GAD,56
+3830,"College Degree",Married,Yes,MDD,31
+9910,"Graduate Degree",Married,Yes,PTSD,57
+6035,"Graduate Degree",Divorced,Yes,MDD,31
+6659,"Some College",Single,Yes,MDD,38
+8117,"Some College",Married,No,None,42
+5086,"High School",Married,No,None,62
+8800,"Some College",Divorced,Yes,PTSD,69
+4151,"Some College",Married,Yes,GAD,43
+3927,"Some College",Divorced,No,MDD,32
+8975,"High School",Single,Yes,"Panic Disorder",38
+4600,"College Degree",Divorced,No,PTSD,34
+7270,"Graduate Degree",Divorced,No,"Panic Disorder",50
+6073,"Graduate Degree",Married,Yes,None,40
+3598,"High School",Divorced,Yes,"Panic Disorder",61
+4684,"Some College",Married,Yes,None,17
+2443,"Graduate Degree",Divorced,Yes,MDD,32
+5808,"High School",Single,No,"Panic Disorder",34
+2811,"Some College",Single,No,"Panic Disorder",33
+6183,"College Degree",Married,Yes,PTSD,49
+8549,"High School",Divorced,Yes,"Panic Disorder",35
+1565,"Graduate Degree",Married,Yes,None,14
+7812,"High School",Single,No,None,25
+4099,"College Degree",Single,Yes,MDD,53
+9896,"College Degree",Single,No,PTSD,47
+9455,"Some College",Single,Yes,None,44
+4056,"High School",Divorced,No,None,27
+1252,"Some College",Single,No,MDD,30
+9764,"College Degree",Married,No,PTSD,7
+8689,"Graduate Degree",Married,Yes,"Panic Disorder",54
+2692,"Some College",Divorced,Yes,PTSD,58
+8933,"Graduate Degree",Divorced,Yes,"Panic Disorder",25
+6571,"College Degree",Single,No,MDD,39
+8241,"High School",Single,Yes,PTSD,26
+7818,"Some College",Married,Yes,None,56
+8226,"Some College",Divorced,Yes,MDD,22
+4830,"High School",Divorced,Yes,PTSD,11
+1020,"High School",Married,Yes,MDD,47
+1171,"Graduate Degree",Divorced,Yes,GAD,33
+7044,"High School",Single,No,"Panic Disorder",64
+3507,"Some College",Divorced,Yes,GAD,45
+8361,"College Degree",Single,No,MDD,75
+2967,"High School",Married,No,MDD,9
+4855,"Some College",Married,No,None,28
+1271,"Some College",Divorced,No,"Panic Disorder",44
+3940,"College Degree",Married,Yes,PTSD,20
+1214,"College Degree",Married,Yes,MDD,53
+3013,"College Degree",Married,Yes,PTSD,8
+8724,"Some College",Divorced,Yes,MDD,30
+6605,"High School",Married,No,MDD,33
+5272,"High School",Married,No,GAD,34
+9321,"High School",Single,Yes,MDD,36
+9949,"High School",Divorced,Yes,MDD,67
+4026,"Some College",Single,Yes,PTSD,51
+7478,"High School",Married,Yes,MDD,66
+2644,"High School",Married,No,None,59
+7936,"High School",Married,No,"Panic Disorder",49
+5475,"High School",Single,Yes,GAD,23
+6142,"High School",Divorced,Yes,MDD,41
+7123,"Some College",Married,Yes,MDD,18
+9749,"Graduate Degree",Married,Yes,GAD,22
+8933,"College Degree",Divorced,Yes,MDD,70
+5731,"Graduate Degree",Divorced,Yes,MDD,49
+7904,"High School",Married,Yes,MDD,18
+7862,"Graduate Degree",Divorced,No,"Panic Disorder",34
