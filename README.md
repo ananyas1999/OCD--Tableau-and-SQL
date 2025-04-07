@@ -18,6 +18,7 @@ Family History of OCD: Yes / No
 Depression / Anxiety: Comorbid diagnosis
 Medications: Usage indicator
 _________________________________________________________________________________________________________________________________________________________________________________________
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/5c77a51c-dfa0-4070-8d08-76ad683879af" />
 
 📊 Insights
 📈 Single patients with some college education had the highest average OCD severity (42.62).
@@ -28,4 +29,4 @@ ________________________________________________________________________________
 📈 Visual Highlights
 Bar charts grouped by Marital Status + Education Level
 Dynamic color scales for Y-BOCS severity
-Interactive filters for comorbidities and family history (optional)
+Interactive filters for comorbidities and family history 
