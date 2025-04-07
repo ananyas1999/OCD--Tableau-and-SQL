@@ -1,4 +1,28 @@
-💡 **Problem Statement 1 - OCD Severity Analysis**
+**Unmasking OCD: A Data-Driven Lens into Hidden Patterns and Mental Health Gaps
+Using SQL + Tableau to Decode Behavioral, Clinical, and Comorbidity Insights**
+
+## ⚙️ Tools Used
+- SQL (MySQL Workbench)
+- Tableau Public (2025.1)
+
+## ✅ Skills Demonstrated
+- EDA + statistical aggregation
+- Tableau dashboard design
+- Patient segmentation & behavioral insights
+
+
+## 🧠 Table of Contents
+
+1. [OCD Severity Analysis](#problem-1---ocd-severity-analysis)
+2. [Comorbidity vs Compulsion](#problem-2--ocd-comorbidities-by-compulsion-patterns)
+3. [Obsession Loops](#problem-3--obsession-loops-do-certain-obsessions-always-lead-to-certain-compulsions)
+4. [Time vs Trauma](#problem-4--time-vs-trauma-does-duration-always-equal-severity)
+5. [Silent Sufferers](#problem-5--who-are-the-silent-sufferers)
+
+
+
+
+💡 **Problem 1 - OCD Severity Analysis**
 
 Can Lifestyle and Family History Predict OCD Severity?
 
@@ -29,7 +53,7 @@ Dynamic color scales for Y-BOCS severity
 Interactive filters for comorbidities and family history 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
-**💡 Problem Statement 2 – OCD Comorbidities by Compulsion Patterns**
+**💡 Problem 2 – OCD Comorbidities by Compulsion Patterns**
 
 Are Certain Compulsions More Tied to Depression or Anxiety?
 
@@ -103,6 +127,8 @@ Depression Diagnosis (color coded)
 Medication Use
 Y-BOCS Subscores
 
+<img width="1262" alt="image" src="https://github.com/user-attachments/assets/abd9bf65-41b1-4cbc-a83f-c6c081b0b112" />
+
 📊 Insights
 📉 Many patients with short symptom durations still report high OCD severity, especially if untreated.
 💬 Duration isn’t always a predictor of mental burden — early interventions matter.
@@ -110,7 +136,8 @@ Y-BOCS Subscores
 
 
 ________________________________________________________________________________________________________________________________________________________________________________________
-**💡 Problem 4 – Who Are the Silent Sufferers?**
+
+**💡 Problem 5 – Who Are the Silent Sufferers?**
 Can we identify patients with low Y-BOCS scores but hidden psychological strain?
 
 🧠 Project Overview
@@ -118,15 +145,15 @@ This analysis identifies patients whose OCD severity seems low, but who still ex
 
 📌 Metric Tracked
 Y-BOCS Total < 30 (filtered)
-
 Comorbid conditions: Depression or Anxiety Diagnosis
 
 🧭 Key Dimensions
 Depression / Anxiety Diagnosis
-
 Compulsion Intensity (proxy)
-
 Family History of OCD
+
+<img width="1257" alt="image" src="https://github.com/user-attachments/assets/6f3f0714-c090-4312-a4ab-d587b9924dc3" />
+
 
 📊 Insights
 🚩 Several patients with low Y-BOCS scores still show significant psychological burden.
@@ -134,7 +161,21 @@ Family History of OCD
 💡 Insight supports holistic care models beyond traditional scoring.
 
 
+________________________________________________________________________________________________________________________________________________________________________________________
 
+
+**🧠 Final Thoughts**
+
+This project goes beyond basic severity scores to explore the complex layers of OCD — from how lifestyle and education shape patient outcomes to identifying “silent sufferers” who risk being overlooked by traditional metrics.
+
+Through SQL exploration and Tableau visualization, we uncovered:
+Hidden risk groups based on marital/education factors
+Strong ties between specific compulsions and psychological strain
+Patterns of obsession-compulsion loops that can inform treatment
+Outliers where time and trauma don’t align
+Low-score patients still carrying heavy mental health burdens
+
+These insights can support more personalized care, early detection, and compassionate intervention strategies. The power of analytics lies not just in what we can measure — but in what we can reveal.
 
 
 
