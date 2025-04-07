@@ -62,7 +62,77 @@ Interactive filters to slice by demographics and comorbid indicators
 
 ✅ Use Case: Supports early screening strategies by surfacing which compulsions require more holistic mental health evaluation (beyond just OCD symptoms).
 
-_________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________
+
+**💡 Problem 3 – Obsession Loops: Do Certain Obsessions Always Lead to Certain Compulsions?**
+
+Can we identify patterns where specific obsessions are strongly linked to certain compulsions?
+
+🧠 Project Overview
+This analysis investigates whether particular OCD obsessions consistently lead to specific compulsions. By joining and aggregating the data, it uncovers behavioral loops — repeated patterns that define how patients respond to intrusive thoughts.
+
+📌 Metrics Tracked
+Frequency of Obsession–Compulsion pairs
+Co-occurrence counts per combination
+
+🧭 Key Dimensions
+Obsession Type
+Compulsion Type
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/c47e3a82-d6bb-460f-80fe-eff385a2206d" />
+
+📊 Insights
+🔁 Certain obsessions (e.g., Contamination) are consistently tied to specific compulsions (e.g., Washing).
+🧠 These loops reflect core behavioral pathways, helping therapists design tailored interventions.
+📉 Loops with the highest frequency may signal automatic behavioral responses.
+
+________________________________________________________________________________________________________________________________________________________________________________________
+
+**💡 Problem 4 – Time vs. Trauma: Does Duration Always Equal Severity?**
+Do patients with longer OCD symptoms always have higher severity, or do some suffer heavily in a short time?
+
+🧠 Project Overview
+This project compares duration of OCD symptoms with Y-BOCS scores to understand if time directly reflects trauma. The goal is to uncover outliers — short-duration patients with severe symptoms and long-duration patients with lower scores.
+
+📌 Metric Tracked
+Y-BOCS Total Score
+Duration of Symptoms (months)
+
+🧭 Key Dimensions
+Depression Diagnosis (color coded)
+Medication Use
+Y-BOCS Subscores
+
+📊 Insights
+📉 Many patients with short symptom durations still report high OCD severity, especially if untreated.
+💬 Duration isn’t always a predictor of mental burden — early interventions matter.
+🎯 Spotting short-term, high-severity cases helps address trauma quickly.
+
+
+________________________________________________________________________________________________________________________________________________________________________________________
+**💡 Problem 4 – Who Are the Silent Sufferers?**
+Can we identify patients with low Y-BOCS scores but hidden psychological strain?
+
+🧠 Project Overview
+This analysis identifies patients whose OCD severity seems low, but who still experience high mental health impacts via comorbid depression/anxiety or intense compulsions. These are potential “missed” cases — patients who may fall through the cracks.
+
+📌 Metric Tracked
+Y-BOCS Total < 30 (filtered)
+
+Comorbid conditions: Depression or Anxiety Diagnosis
+
+🧭 Key Dimensions
+Depression / Anxiety Diagnosis
+
+Compulsion Intensity (proxy)
+
+Family History of OCD
+
+📊 Insights
+🚩 Several patients with low Y-BOCS scores still show significant psychological burden.
+🧩 These patients could be overlooked if only severity is used for diagnosis.
+💡 Insight supports holistic care models beyond traditional scoring.
+
 
 
 
