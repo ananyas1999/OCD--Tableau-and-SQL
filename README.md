@@ -5,7 +5,7 @@ Using SQL + Tableau to Decode Behavioral, Clinical, and Comorbidity Insights
 - SQL (MySQL Workbench)
 - Tableau Public (2025.1)
 
-## ✅ Skills Demonstrated
+## Skills Demonstrated
 - EDA + statistical aggregation
 - Tableau dashboard design
 - Patient segmentation & behavioral insights
