@@ -43,7 +43,7 @@ Medications: Usage indicator
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/5c77a51c-dfa0-4070-8d08-76ad683879af" />
 
 Insights
-📈 Single patients with some college education had the highest average OCD severity (42.62).
+Single patients with some college education had the highest average OCD severity (42.62).
 💬 Married individuals with graduate degrees showed the lowest severity (36.52), suggesting social or emotional support benefits.
 🧩 Lifestyle factors can significantly influence OCD outcomes, indicating potential for more tailored interventions.
 
