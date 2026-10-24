@@ -22,7 +22,7 @@ Using SQL + Tableau to Decode Behavioral, Clinical, and Comorbidity Insights
 
 
 
-💡 **Problem 1 - OCD Severity Analysis**
+**Problem 1 - OCD Severity Analysis**
 
 Can Lifestyle and Family History Predict OCD Severity?
 
