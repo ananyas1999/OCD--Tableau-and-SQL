@@ -33,7 +33,7 @@ Metric Tracked
 Y-BOCS Total Score
 Sum of Obsession + Compulsion scores used to quantify OCD severity.
 
-🧭 Key Dimensions
+Key Dimensions
 Marital Status: Single, Married, Divorced
 Education Level: High School, Some College, College Degree, Graduate Degree
 Family History of OCD: Yes / No
