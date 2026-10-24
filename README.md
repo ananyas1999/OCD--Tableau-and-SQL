@@ -45,7 +45,7 @@ Medications: Usage indicator
 Insights
 Single patients with some college education had the highest average OCD severity (42.62).
 Married individuals with graduate degrees showed the lowest severity (36.52), suggesting social or emotional support benefits.
-🧩 Lifestyle factors can significantly influence OCD outcomes, indicating potential for more tailored interventions.
+Lifestyle factors can significantly influence OCD outcomes, indicating potential for more tailored interventions.
 
 📈 Visual Highlights
 Bar charts grouped by Marital Status + Education Level
