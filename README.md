@@ -26,7 +26,7 @@ Using SQL + Tableau to Decode Behavioral, Clinical, and Comorbidity Insights
 
 Can Lifestyle and Family History Predict OCD Severity?
 
-🧠 Project Overview
+Project Overview
 This project analyzes how education level, marital status, and family history impact OCD severity (measured using Y-BOCS scores). The goal is to identify high-risk patient groups and uncover behavioral patterns using SQL + Tableau.
 
 📌 Metric Tracked
