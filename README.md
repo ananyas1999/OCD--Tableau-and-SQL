@@ -11,7 +11,7 @@ Using SQL + Tableau to Decode Behavioral, Clinical, and Comorbidity Insights
 - Patient segmentation & behavioral insights
 
 
-## 🧠 Table of Contents
+## Table of Contents
 
 1. [OCD Severity Analysis](#problem-1---ocd-severity-analysis)
 2. [Comorbidity vs Compulsion](#problem-2--ocd-comorbidities-by-compulsion-patterns)
