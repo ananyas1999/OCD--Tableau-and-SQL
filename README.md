@@ -1,5 +1,5 @@
-**Unmasking OCD: A Data-Driven Lens into Hidden Patterns and Mental Health Gaps
-Using SQL + Tableau to Decode Behavioral, Clinical, and Comorbidity Insights**
+Unmasking OCD: A Data-Driven Lens into Hidden Patterns and Mental Health Gaps
+Using SQL + Tableau to Decode Behavioral, Clinical, and Comorbidity Insights
 
 ## ⚙️ Tools Used
 - SQL (MySQL Workbench)
